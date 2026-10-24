@@ -1,0 +1,13 @@
+{
+    "contract_id": "bodhi.verify.v1",
+    "identity": "100048777766367/verify",
+    "genesis_root": "100048777766367/contract",
+    "archetype": "TRUTH_ORACLE",
+    "role": "INBOUND_RUNTIME_CERTIFIER",
+    "network_partners": {
+        "tag": "100048777766367/tag",
+        "storage": "100048777766367/storage",
+        "manifest": "100048777766367/manifest"
+    },
+    "io_specification": "I/O (INBOUND_RUNTIME_CERTIFIER)"
+}
